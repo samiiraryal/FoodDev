@@ -1,0 +1,65 @@
+@charset "utf-8";
+
+/* CSS Document */
+@media only screen and (max-width: 1300px) {
+}
+
+@media only screen and (max-width: 1194px) {
+
+}
+@media only screen and (max-width: 1080px) {
+ 
+	}
+@media only screen and (max-width: 994px) {
+
+}
+
+@media only screen and (max-width: 768px) {
+.display-2,.display-3{font-size: 25px;}
+.carousel-item{height: auto;}
+.phc{width: 100%;}
+.nav-tabs {padding-left: 32px;}
+.chefname{width: 180px;
+		  top: 189px;
+    	  left: 30px;}
+.offerimg{height: 500px;}
+.offerimg img{height: 100%;
+				object-fit: cover;}
+.chefimg {margin-top: 25px;}
+.testimonials{margin-top: 0;}
+.footer{margin-top: 0;}
+.rating {width: 33%;}
+.contactform form label {display: block;
+						text-align: center;}
+.contactform form input{margin-left: 21px;}
+.map{margin-top: 40px;}
+
+}
+
+
+@media only screen and (max-width: 680px) {
+
+}
+@media only screen and (max-width: 480px) {
+.ourstory h1{margin-top: 15px;
+	         font-family: 'Great Vibes', cursive;
+	         color: red;}
+.em i{font-size: 23px;}	
+span.name{color:#fff;}
+.carousel-item{height: auto;}
+.carousel-item img{}
+.ph{width: 100%;}
+.em{width: 100%;}
+.booknow a {display: block;
+			text-align: center;}
+.booknow {margin: 0 auto;
+		  display: inline-block;}
+.display-2,.display-3{font-size: 20px;}
+.nav-tabs {padding-left: 129px;}
+.expense {right: 0;}
+.rating {width: 33%;}
+.smallimg{margin-top: 10px;}
+
+@media only screen and (max-width: 320px) {
+}
+
